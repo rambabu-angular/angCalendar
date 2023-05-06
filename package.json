@@ -36,7 +36,7 @@
     "daypilot-pro-angular": "https://npm.daypilot.org/daypilot-pro-angular/trial/2019.3.3925.tar.gz",
     "flatpickr": "^4.6.2",
     "hammerjs": "^2.0.8",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0",
     "nativescript-demo-utils": "^1.0.0",
     "ngx-clipboard": "^12.1.0",
